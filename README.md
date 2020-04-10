@@ -13,7 +13,15 @@ Unzip file and start the SoftwOrt-RetailManagerApp.exe
 
 Use the predefined log in credentials.
 
+## API
 
+The SoftwOrt-RetailManagerApp uses an API to connect to 2 diffrent MSSQL databases.
+- one EF database for authentification and user roles
+- one database for retail management like sales, inventory, sales details, products, ...)
+
+API is also extended with swagger, link:
+
+[SORM-API](https://sormapi.azurewebsites.net/swagger)
 
 ## Sourcecode
 
