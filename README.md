@@ -9,9 +9,9 @@ Download ZIP file here:
 
 Unzip file and start the SoftwOrt-RetailManagerApp.exe
 
-## Log In
+## Log-In
 
-Use the predefined log in credentials.
+Use the predefined log-in credentials.
 
 ## API
 
