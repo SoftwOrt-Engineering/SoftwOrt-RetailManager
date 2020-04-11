@@ -25,4 +25,4 @@ API is also extended with swagger, link:
 
 ## Sourcecode
 
-[Azure DevOps](https://dev.azure.com/markussczeburek-ort/SoftwOrtRetailManager)
+[Azure DevOps](https://dev.azure.com/markussczeburek-ort/_git/SoftwOrtRetailManager)
